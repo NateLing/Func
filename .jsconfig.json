@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "commonjs",
+		"allowSyntheticDefaultImports": true
+	},
+	"exclude": [
+		"build",
+		"cache",
+		"config",
+		"controllers",
+		"core",
+		"dist",
+		"helpers",
+		"hooks",
+		"language",
+		"libraries",
+		"models",
+		"node_modules",
+		"resource",
+		"service",
+		"third_party",
+		"views"
+	],
+	"include": ["src/**/*"]
+}
